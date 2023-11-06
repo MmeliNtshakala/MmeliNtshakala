@@ -1,3 +1,4 @@
+![logo](https://github.com/MmeliNtshakala/Mmeli_Ntshakala/blob/main/giphy.gif)
 <h1 align="center">Hi 👋, I'm Mmeli Ntshakala</h1>
 
 <h3 align="center">A Full Stack student who is passionate about code and creating cool meaningful code</h3>
