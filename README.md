@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/MmeliNtshakala/Mmeli_Ntshakala/blob/main/giphy.gif)
-<h1 align="center">Hello there 👋, I'm Mmeli Ntshakala</h1>
+<h1 align="center">Hello there 👋, Mmeli Ntshakala here</h1>
 
 <h3 align="center">A Full Stack student who is passionate about code and creating cool meaningful code</h3>
 
