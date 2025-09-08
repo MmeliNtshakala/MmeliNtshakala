@@ -17,11 +17,11 @@
 
 
 
-- 🌱 I’m currently learning **Full stack web Dev foundation in C**
+- 🌱 I’m currently learning **Full stack Software Engineering, web Dev, foundations in Python and Java**
 
 
 
-- 💬 Ask me about **C, Python, Shell.**
+- 💬 Ask me about ** PYTHON, JAVA, DOCKER, CI/CD.**
 
 
 
